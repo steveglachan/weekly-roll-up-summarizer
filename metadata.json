@@ -1,0 +1,6 @@
+{
+  "name": "Weekly Roll-up Summarizer",
+  "description": "An AI-powered app that turns raw updates and messy text into a categorized, highly scannable weekly digest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
